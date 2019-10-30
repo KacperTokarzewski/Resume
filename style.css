@@ -80,6 +80,11 @@ footer {
    color:white;
 }
 
+.link
+{
+   margin:auto;
+}
+
 #main
 {
    border-radius:50%;
