@@ -82,7 +82,8 @@ footer {
 
 .link
 {
-   margin:auto;
+   display: inline-block;
+   margin: 10px;
 }
 
 #main
