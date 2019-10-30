@@ -86,6 +86,11 @@ footer {
    margin: 10px;
 }
 
+.container
+{
+   text-align: center;
+}
+
 #main
 {
    border-radius:50%;
