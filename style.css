@@ -110,6 +110,13 @@ footer {
    margin-top:20px;
 }
 
+#top
+{
+   text-align: center;
+   color:white;
+   font-size:20px;
+}
+
 #contact
 {
   color:black;
